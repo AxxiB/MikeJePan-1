@@ -94,7 +94,7 @@
       filterChat: true,
       etaRestriction: false,
       welcome: true,
-      opLink: "http://www.instagram.com/MikeJePan",
+      opLink: null,
       rulesLink: "http://prnt.sc/cbmtux",
       themeLink: null,
       fbLink: "https://www.facebook.com/mikejepan/?fref=ts",
