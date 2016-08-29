@@ -99,7 +99,7 @@
       themeLink: null,
       fbLink: "https://www.facebook.com/mikejepan/?fref=ts",
       youtubeLink: "https://www.youtube.com/channel/UCcYSJ9YDP7vMy5nf5KPFvFw",
-      website: null,
+      website: "http://www.pojisteninapokuty.cz/",
       intervalMessages: ["Děkujeme za vaší podporu. S láskou #MikeJePan :heart:"],
       messageInterval: 15,
       songstats: false,
