@@ -95,7 +95,7 @@
       etaRestriction: false,
       welcome: true,
       opLink: null,
-      rulesLink: null,
+      rulesLink: "http://prnt.sc/cbmtux",
       themeLink: null,
       fbLink: "https://www.facebook.com/mikejepan/?fref=ts",
       youtubeLink: "https://www.youtube.com/channel/UCcYSJ9YDP7vMy5nf5KPFvFw",
