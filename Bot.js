@@ -96,7 +96,7 @@
       welcome: true,
       opLink: null,
       rulesLink: "http://prnt.sc/cbmtux",
-      themeLink: null,
+      themeLink: "https://www.instagram.com/MikeJePan/",
       fbLink: "https://www.facebook.com/mikejepan/?fref=ts",
       youtubeLink: "https://www.youtube.com/channel/UCcYSJ9YDP7vMy5nf5KPFvFw",
       website: "http://www.pojisteninapokuty.cz",
