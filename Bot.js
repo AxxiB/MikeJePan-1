@@ -101,7 +101,7 @@
       youtubeLink: "https://www.youtube.com/channel/UCcYSJ9YDP7vMy5nf5KPFvFw",
       website: "http://www.pojisteninapokuty.cz",
       intervalMessages: ["Děkujeme za vaší podporu. S láskou #MikeJePan :heart: Sleduj také Majka na Insta: https://www.instagram.com/mikejepan/"],
-      messageInterval: 15,
+      messageInterval: 1,
       songstats: false,
       commandLiteral: "!",
       blacklists: {
