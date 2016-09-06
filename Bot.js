@@ -54,7 +54,7 @@
       startupCap: 69, // 1-200
       startupVolume: 100, // 0-100
       startupEmoji: true, // true or false
-      autowoot: true,
+      autowoot: false,
       autoskip: false,
       smartSkip: true,
       cmdDeletion: true,
@@ -93,7 +93,7 @@
       motd: "Temporary Message of the Day",
       filterChat: null,
       etaRestriction: false,
-      welcome: true,
+      welcome: null,
       opLink: null,
       rulesLink: "http://prnt.sc/cbmtux",
       themeLink: null,
