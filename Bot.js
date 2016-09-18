@@ -93,7 +93,7 @@
       motd: "Temporary Message of the Day",
       filterChat: null,
       etaRestriction: false,
-      welcome: null,
+      welcome: true,
       opLink: null,
       rulesLink: "http://prnt.sc/cbmtux",
       themeLink: null,
